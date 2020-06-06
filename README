@@ -1,2 +1,7 @@
-These are blit/5620 binaries.  I downloaded them from
+These are 5620/630 binaries.  They were downloaded from
     http://yahozna.dyndns.org/computers/software/3b2/blit/
+
+The dmd.* files are 3b2 SVR3 install packages.  The *.m files in
+the top level directory are 5620 downloadables.  The *.m files in
+the subdirectories are 630 downloadables, for big-endian hosts like
+the 3b2.
